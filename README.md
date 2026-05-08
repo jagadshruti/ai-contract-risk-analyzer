@@ -22,3 +22,23 @@ AI Output:
 
 ## About Me
 I am a Product Manager with experience in Legal Tech and SaaS platforms.
+
+## 🎬 Demo Example
+
+### Input Clause
+Vendor shall not be liable for any indirect damages.
+
+### AI Output
+- Risk: High  
+- Reason: Vendor avoids responsibility for indirect losses  
+- Suggestion: Add a liability cap instead of full exclusion  
+
+---
+
+### Input Clause
+Client agrees to indemnify vendor for all claims.
+
+### AI Output
+- Risk: Medium  
+- Reason: Broad indemnity may expose client to risk  
+- Suggestion: Limit indemnity scope to specific cases
